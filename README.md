@@ -71,6 +71,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-disqus](backend/modules)
 - [django-openai](backend/modules)
 - [react-native-image-gallery](modules/image-gallery)
+- [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 
 # Getting started: Frontend
 
