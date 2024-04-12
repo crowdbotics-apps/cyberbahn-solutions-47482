@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-login](modules/login)
 - [django-disqus](backend/modules)
 - [django-openai](backend/modules)
+- [react-native-image-gallery](modules/image-gallery)
 
 # Getting started: Frontend
 
