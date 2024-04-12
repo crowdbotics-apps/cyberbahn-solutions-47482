@@ -37,3 +37,4 @@ cb-django-appointment-local = {editable = true, path = "./modules/django_appoint
 cb-django-contact-us = {editable = true, path = "./modules/django_contact_us"}
 cb-django-calendly = {editable = true, path = "./modules/django_calendly"}
 cb-django-disqus = {editable = true, path = "./modules/django_disqus"}
+cb-django-openai = {editable = true, path = "./modules/django_openai"}
