@@ -1479,7 +1479,7 @@
 "@modules/faq@file:./modules/faq":
   version "1.0.0"
 
-"@modules/image-gallery@file:./modules/image-gallery/":
+"@modules/image-gallery@file:./modules/image-gallery":
   version "1.0.0"
 
 "@modules/login@file:./modules/login":
@@ -1491,6 +1491,9 @@
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
 "@modules/maps@file:./modules/maps":
+  version "1.0.0"
+
+"@modules/mixpanel-analytics@file:./modules/mixpanel-analytics/":
   version "1.0.0"
 
 "@modules/social-feed@file:./modules/social-feed":
@@ -6610,6 +6613,11 @@ mixin-deep@^1.2.0:
   dependencies:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
+
+mixpanel-react-native@^2.3.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/mixpanel-react-native/-/mixpanel-react-native-2.4.1.tgz#d63bf160875e9a0b7e3a50f395ad7aaa6d8c09a5"
+  integrity sha512-NNzXxOxX83FSIKN3x9vY49a13mk2syshWDcXvkfljiQ2bgwk0suA9PKYQNOkbwT/Af53oWt06JMe0xP4RUOyCA==
 
 mkdirp@^0.5.1:
   version "0.5.6"
