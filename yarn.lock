@@ -1517,6 +1517,15 @@
     react-native-screens "3.10.2"
     react-native-typeform-embed "1.0.4"
 
+"@modules/typeform-webhook@file:./modules/typeform-webhook/":
+  version "1.0.0"
+  dependencies:
+    "@react-navigation/native" "6.0.8"
+    "@react-navigation/native-stack" "6.5.0"
+    react-native-base64 "0.2.1"
+    react-native-screens "3.10.2"
+    react-native-typeform-embed "1.0.4"
+
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
   resolved "https://registry.yarnpkg.com/@nicolo-ribaudo/eslint-scope-5-internals/-/eslint-scope-5-internals-5.1.1-v1.tgz#dbf733a965ca47b1973177dc0bb6c889edcfb129"
