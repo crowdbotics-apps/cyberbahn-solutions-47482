@@ -73,6 +73,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-image-gallery](modules/image-gallery)
 - [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
+- [react-native-typeform-webhook](modules/typeform-webhook)
 
 # Getting started: Frontend
 
