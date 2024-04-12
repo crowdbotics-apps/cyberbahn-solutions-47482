@@ -17,6 +17,7 @@
     "@modules/2fa": "file:./modules/2fa/",
     "@modules/appointment": "file:./modules/appointment/",
     "@modules/appointment-local": "file:./modules/appointment-local/",
+    "@modules/social-feed": "file:./modules/social-feed",
     "@react-native-google-signin/google-signin": "7.2.2",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/native": "^6.1.6",
