@@ -1461,6 +1461,13 @@
     react-native-qrcode-svg "6.1.2"
     react-native-svg "12.3.0"
 
+"@modules/2fa@file:./modules/2fa/":
+  version "1.0.1"
+  dependencies:
+    react-native-dropdown-picker "^5.4.6"
+    react-native-qrcode-svg "6.1.2"
+    react-native-svg "12.3.0"
+
 "@modules/appointment-local@file:./modules/appointment-local":
   version "1.0.1"
   dependencies:
@@ -1496,7 +1503,7 @@
 "@modules/mixpanel-analytics@file:./modules/mixpanel-analytics":
   version "1.0.0"
 
-"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
+"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
 
 "@modules/social-feed@file:./modules/social-feed":
