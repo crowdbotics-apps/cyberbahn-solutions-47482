@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e7e772d9ad15337aa1eb35433bd426d82d78365fd6174eae94567f4831c918c7"
+            "sha256": "351b131e76d80daf7adce292c167eef2ecd5df5115bc2b91ff211d74d050ef31"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -67,6 +67,10 @@
         "cb-django-appointment-local": {
             "editable": true,
             "path": "./modules/django_appointment_local"
+        },
+        "cb-django-calendly": {
+            "editable": true,
+            "path": "./modules/django_calendly"
         },
         "cb-django-contact-us": {
             "editable": true,
