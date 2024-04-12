@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-calendly](backend/modules)
 - [social-feed]()
 - [react-native-maps](modules/maps)
+- [faq]()
 
 # Getting started: Frontend
 

@@ -1476,7 +1476,10 @@
     react-native-dropdown-picker "5.3.0"
     react-native-screens "3.10.2"
 
-"@modules/maps@file:./modules/maps/":
+"@modules/faq@file:./modules/faq":
+  version "1.0.0"
+
+"@modules/maps@file:./modules/maps":
   version "1.0.0"
 
 "@modules/social-feed@file:./modules/social-feed":
