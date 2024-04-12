@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-appointment-local](backend/modules)
 - [django-contact-us](backend/modules)
 - [django-calendly](backend/modules)
+- [social-feed]()
 
 # Getting started: Frontend
 
