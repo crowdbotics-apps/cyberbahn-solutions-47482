@@ -1482,6 +1482,9 @@
 "@modules/image-gallery@file:./modules/image-gallery":
   version "1.0.0"
 
+"@modules/image-gallery@file:./modules/image-gallery/":
+  version "1.0.0"
+
 "@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
